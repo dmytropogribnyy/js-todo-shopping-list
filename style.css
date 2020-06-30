@@ -2,6 +2,7 @@ body,
 input,
 button {
 	font-family: "Montserrat", sans-serif;
+	background-color: rgb(251, 249, 242);
 }
 
 .container {
