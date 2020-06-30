@@ -1,2 +1,2 @@
 ## js-todo-list
-Nice and clean todo shopping list.
+Nice and clean TODO shopping list.
